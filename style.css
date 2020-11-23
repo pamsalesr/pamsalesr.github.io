@@ -1,0 +1,131 @@
+      body {
+        background-color: #f5f5f5;
+      }
+      #Sobremim {
+        color: black;
+        font-size: 2em;
+        font-family: 'Nunito Sans', sans-serif;
+
+             
+      }
+      #habilidades {
+        color: black;
+        font-size: 2em;
+        font-family: 'Nunito Sans', sans-serif;
+
+      }
+      #contatos {
+        color: #75d2ae;
+        font-size: 1em;
+        font-family: 'Work Sans', sans-serif;
+        margin-bottom: 50px;
+        position: absolute;
+        }
+      #name {
+        font-family: cursive;
+        font-size: 2.5em;
+        font-style: italic;
+        text-align: center;
+        }
+      .description {
+        font-size: 1.5em;
+      }
+      
+      li{
+        font-size: 1.5em;
+      }
+     
+      .item1 {
+        font-family: 'Nunito Sans', sans-serif;
+        color: #75d2ae;
+        font-style: italic;
+        }
+
+      .item2 {
+        font-family: 'Nunito Sans', sans-serif;
+
+      }
+      
+      a {
+        font-size: 25px;
+        text-align: center;
+      }
+      img {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+      }
+      .sidebar {
+       float: left;
+       max-width: 30%;
+       width: 30%;
+       margin-top: 30px;
+       margin-bottom: 10px;
+       position: absolute;
+       height: 92.5%;
+       background-color: white;
+       display: block;
+       clear:both;
+       padding: 0;
+       border-radius: 2%;
+      }
+    
+
+      #portifólio-web {
+        float: top;
+        position: static;
+        text-align:center;
+        color: black;
+        background-color: #75d2ae;
+        margin: -21px;
+        height: 50px;
+        font-family: 'Oswald', sans-serif;
+        }
+
+        h1.portifólio-web {
+            color: black;
+        }
+
+        .profile-picture {
+            width: 70%;
+            border-radius: 100%;
+        }
+
+        .links-internos {
+            background-color: #75d2ae;
+            background-size: 300px;
+            text-align: center;
+        }
+
+        a:link {
+            text-decoration: none;
+            font-family: 'Work Sans', sans-serif;
+        }
+
+        #wrap {
+            float: right;
+            max-width: 65%;
+            padding-right: 22px;
+            padding-top: 20px;
+            text-align: justify;
+        }
+
+        .links-internos a:visited {
+            color: white;
+            font-family: 'Work Sans', sans-serif;
+        }
+        a:visited {
+            color: #75d2ae;
+            font-family: 'Work Sans', sans-serif;
+        }
+
+        h2 .contatos {
+            font-family: 'Work Sans', sans-serif;
+            font-size: 1px;
+        }
+
+        p {
+            font-family: 'Nunito Sans', sans-serif;
+
+        }
+        
