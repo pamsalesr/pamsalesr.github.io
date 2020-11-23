@@ -61,7 +61,7 @@
        width: 30%;
        margin-top: 30px;
        margin-bottom: 10px;
-       position: absolute;
+       position: fixed;
        height: 92.5%;
        background-color: white;
        display: block;
@@ -88,7 +88,8 @@
 
         .profile-picture {
             width: 70%;
-            border-radius: 100%;
+            border-radius: 100px 100px 10px;
+            border: 3px #75d2ae solid;
         }
 
         .links-internos {
@@ -114,6 +115,13 @@
             color: white;
             font-family: 'Work Sans', sans-serif;
         }
+
+        .links-internos a:link {
+          color: white;
+          text-decoration: none;
+          font-family: 'Work Sans', sans-serif;
+        }
+
         a:visited {
             color: #75d2ae;
             font-family: 'Work Sans', sans-serif;
